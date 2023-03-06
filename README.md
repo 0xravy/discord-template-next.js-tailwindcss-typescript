@@ -1,0 +1,1 @@
+# discord-template-next.js-tailwindcss-typescript
